@@ -1,0 +1,11 @@
+diff --git a/main.c b/main.c
+index 2602905..af8ee30 100644
+--- a/main.c
++++ b/main.c
+@@ -8,5 +8,5 @@ void main(void)
+ 
+ void print()
+ {
+-  printf("Hello World!");
++  printf("Hello Ezekiel!");
+ }
