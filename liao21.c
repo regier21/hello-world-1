@@ -3,9 +3,7 @@
 #include <stdio.h>
 #include "liao21.h"
 
-void username() {
+void liao21() {
 
-	printf("***************************************");
 	printf("Hayden likes potstickers and tacos.\n");
-	printf("***************************************");
 }
