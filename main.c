@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "print.h"
+#include "regier21.h"
 
 void main(void)
 {
@@ -9,6 +10,6 @@ void main(void)
 void print()
 {
   printf("Hello Zeke, Ryan, Hayden, and Ashika!\n");
-
+  regier21();
 
 }
